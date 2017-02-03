@@ -21,11 +21,7 @@ Instructions
 
 1. After cloning the project, open the project file in IntelliJ
 
-2. Right click on the file com.au.amaysim.tests.TestSuite.java to open the context menu and click Run 'TestSuite'.
-
-If it is your first time to run the project, it may take a while for Maven to download all the required dependencies to run the Framework.
-
-You may also want to enable the auto-import of Maven dependencies if the IDE prompts you.
+2. Right click on the file com.au.amaysim.tests.TestSuite.java to open the context menu and click Run 'TestSuite'. If it is your first time to run the project, it may take a while for Maven to download all the required dependencies to run the Framework. You may also want to enable the auto-import of Maven dependencies if the IDE prompts you.
 
 3. Wait for the magic to happen
 
